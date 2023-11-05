@@ -4,7 +4,7 @@ Second project for Assembly x86 Language laboratories 2022/23.
 
 ## How to use
 
-Program accept an input in form: _\<number\> \<number\>_, where
+Program accepts an input in form: _\<number\> \<number\>_, where
 
 * ***\<number\>*** is a number in range 0-200
 
